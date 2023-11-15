@@ -1,0 +1,2 @@
+# dither
+Image dithering tool
